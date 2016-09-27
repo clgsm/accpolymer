@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SHOP
 
 ### Setup
@@ -16,7 +16,7 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
     mkdir shop
     cd shop
     polymer init shop
-    
+
     # Or cloning direct from GitHub
     git clone https://github.com/Polymer/shop.git
     cd shop
@@ -39,11 +39,10 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 This command serves the minified version of the app in an unbundled state, as it would be served by a push-compatible server:
 
     polymer serve build/unbundled
-    
+
 This command serves the minified version of the app generated using fragment bundling:
 
     polymer serve build/bundled
 =======
 # accpolymer
 Polymer demo
->>>>>>> 21a005a6b0380e0ccefda91c5b700eef9b65d5d5
